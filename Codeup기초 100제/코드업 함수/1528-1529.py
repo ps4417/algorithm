@@ -1,0 +1,3 @@
+def star():
+    print("**")
+star()
